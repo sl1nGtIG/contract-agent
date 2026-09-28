@@ -1,5 +1,5 @@
 {
- "saved_at": "2026-09-28T12:48:40",
+ "saved_at": "2026-09-28T12:59:08",
  "documents": {
   "doc_232aee6c": {
    "doc_id": "doc_232aee6c",
@@ -396,6 +396,13 @@
      "confidence": 0.9
     },
     {
+     "term": "obligations",
+     "summary": "Обеспечительный платёж 210 000 руб. в течение 5 рабочих дней.",
+     "clause_ref": "п. 3.1",
+     "quote": "Арендатор вносит обеспечительный платёж в размере 210 000 (двести десять тысяч) рублей",
+     "confidence": 0.9
+    },
+    {
      "term": "remuneration",
      "summary": "Арендная плата 210 000 руб. в месяц, включая НДС и коммунальные платежи.",
      "clause_ref": "п. 4.1",
@@ -429,16 +436,8 @@
    "related_contracts": [],
    "anonymized_fields": [],
    "extraction_notes": [],
-   "issues": [
-    {
-     "field": "key_terms[2].obligations",
-     "severity": "rejected",
-     "reason": "цитата не найдена в тексте документа (совпадение 56%)",
-     "raw_value": "Обеспечительный платёж 210 000 руб. в течение 5 рабочих дней.",
-     "doc_id": "doc_232aee6c"
-    }
-   ],
-   "status": "partial"
+   "issues": [],
+   "status": "ok"
   },
   "doc_98d3041d": {
    "doc_id": "doc_98d3041d",
@@ -1880,6 +1879,33 @@
       }
      ]
     },
+    "obligations": {
+     "term": "obligations",
+     "active": [
+      {
+       "summary": "Обеспечительный платёж 210 000 руб. в течение 5 рабочих дней.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 3.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Обеспечительный платёж 210 000 руб. в течение 5 рабочих дней.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 3.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
     "liability": {
      "term": "liability",
      "active": [
@@ -2664,10 +2690,14 @@
     "common": {
      "doc_type": "main_contract",
      "main_change_area": "—",
-     "status": "partial",
      "text_source": "text_layer"
     },
     "differing": {
+     "status": {
+      "doc_232aee6c": "ok",
+      "doc_98d3041d": "partial",
+      "doc_6039766d": "partial"
+     },
      "subject_category": {
       "doc_232aee6c": "lease",
       "doc_98d3041d": "lease",
@@ -2731,7 +2761,7 @@
    "У-77": "Основного договора в пакете нет, цепочка восстановлена по ссылкам ДС. С 01.02.2024 стоимость уборки — 135 000 руб. в месяц (У-77/5). Вывоз снега за 40 000 руб. в месяц (У-77/6, скан) действовал по 31.05.2025 и в действующие условия не входит."
   }
  },
- "report_generated_at": "2026-09-28T12:48:40.891690",
+ "report_generated_at": "2026-09-28T12:59:08.174919",
  "reflection": {
   "complete": true,
   "items": [
@@ -2805,9 +2835,9 @@
   "quality": {
    "Документов распознано": "12/13 (92%)",
    "Из них через OCR (страниц с низкой разборчивостью)": "2 (0)",
-   "Карточки: ok / partial / unrecognized": "5 / 7 / 0",
-   "Значений подтверждено проверками": "95/103 (92%)",
-   "Отказов от записи": "8",
+   "Карточки: ok / partial / unrecognized": "6 / 6 / 0",
+   "Значений подтверждено проверками": "96/103 (93%)",
+   "Отказов от записи": "7",
    "Средняя уверенность записанных значений": "0.93",
    "Договоров без основного документа в пакете": "1",
    "Противоречий и предупреждений по договорам": "3"
@@ -2820,5 +2850,5 @@
   "cache_read_input_tokens": 0,
   "calls": 12
  },
- "changed_at": "2026-09-28T12:48:40.877735"
+ "changed_at": "2026-09-28T12:59:08.155338"
 }

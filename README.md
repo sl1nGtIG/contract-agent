@@ -38,7 +38,7 @@
 | Логирование хода мыслей | Консоль + JSONL: `thinking`, `thought`, `tool_call`, `tool_result`, `reflection` | `tracing.py` |
 | Отказ от записи неуверенных / противоречивых значений | Значение сверяется с текстом и со своей цитатой (см. таблицу ниже); отказ пишется с причиной и исходным значением | `validators.py`, раздел 6 отчёта |
 | Reflection | Чек-лист из 11 пунктов считает код; при невыполнении агент возвращается к работе (до 2 раундов); `analyze` возвращает код 1, если план так и не выполнен | `reflection.py`, раздел 7 отчёта |
-| Тестирование | 45 тестов без API; оценка на синтетическом пакете против эталона, сгенерированного до прогона | `tests/`, [evaluation.md](examples/live_run/evaluation.md) |
+| Тестирование | 46 тестов без API; оценка на синтетическом пакете против эталона, сгенерированного до прогона | `tests/`, [evaluation.md](examples/live_run/evaluation.md) |
 
 ---
 
@@ -68,7 +68,7 @@ copy .env.example .env          # Linux/macOS: cp .env.example .env
 
 | Что нужно | Команда | Что увидите |
 |---|---|---|
-| ничего | `python -m pytest -q` | 45 тестов без API |
+| ничего | `python -m pytest -q` | 46 тестов без API |
 | ничего | `python -m contract_agent demo` | весь конвейер на синтетическом пакете с записанными ответами модели → `examples/demo/output/` |
 | ничего | `python -m contract_agent evaluate --kb examples/live_run/knowledge_base.json` | качество живого прогона против эталона |
 | ключ API | `python -m contract_agent analyze --input examples/synthetic_package/docs --fresh` | живой прогон агента на синтетическом пакете (~$2.5 на Opus 5) |
@@ -323,7 +323,7 @@ examples/
   synthetic_package/  спецификация, генератор, PDF и эталон синтетического пакета
   demo/               кассета ответов модели и результат офлайн-демо
   live_run/           живой прогон агента на синтетическом пакете
-tests/              45 тестов без API (PDF для тестов генерируются на лету)
+tests/              46 тестов без API (PDF для тестов генерируются на лету)
 ```
 
 ## Как внести изменение

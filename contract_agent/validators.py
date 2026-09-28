@@ -181,7 +181,10 @@ class TextIndex:
 
     def __init__(self, text: str):
         self.text = text
-        spans = [(m.group(0).lower().replace("ё", "е"), m.start(), m.end()) for m in _TOKEN_RE.finditer(text)]
+        # «ё» → «е» ДО разбиения на слова, как и в _tokens(): иначе «платёж» в тексте рвётся на «плат» + «ж»
+        # и цитаты с «ё» ложно не находятся (замена посимвольная — позиции слов не сдвигаются)
+        norm = text.replace("ё", "е").replace("Ё", "Е")
+        spans = [(m.group(0).lower(), m.start(), m.end()) for m in _TOKEN_RE.finditer(norm)]
         self.tokens = [t for t, _, _ in spans]
         self.spans = [(a, b) for _, a, b in spans]
         self.joined = " ".join(self.tokens)

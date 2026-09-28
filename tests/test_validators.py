@@ -58,6 +58,12 @@ def test_normalize_number():
     assert normalize_number("АБ 123_45") == "АБ123-45"
 
 
+def test_quote_with_yo_letter_is_found():
+    idx = TextIndex("Арендатор вносит обеспечительный платёж в размере 210 000 рублей")
+    assert idx.quote_match("вносит обеспечительный платёж в размере 210 000 рублей") == 1.0
+    assert idx.quote_match("вносит обеспечительный платеж в размере 210 000 рублей") == 1.0
+
+
 def test_quote_match_tolerates_line_breaks_and_punctuation():
     idx = TextIndex("Стороны договорились о взаимном\nпрекращении обязательств по совместному продвижению")
     assert idx.quote_match("договорились о взаимном прекращении обязательств по совместному") == 1.0

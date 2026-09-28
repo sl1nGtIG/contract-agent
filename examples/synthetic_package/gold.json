@@ -1,0 +1,258 @@
+{
+ "our_party": "АО «Вектор Логистик»",
+ "as_of": "2026-09-27",
+ "documents": {
+  "Северный квартал (аренда)/Договор аренды АР-2021-015.pdf": {
+   "doc_type": "main_contract",
+   "number": "АР-2021/015",
+   "date": "15.03.2021",
+   "parent_number": null,
+   "parent_date": null,
+   "effective_from": "15.03.2021",
+   "valid_until": null,
+   "counterparty_legal_form": "ООО",
+   "invalidates": [],
+   "changes": []
+  },
+  "Северный квартал (аренда)/ДС1 к договору аренды.pdf": {
+   "doc_type": "supplementary_agreement",
+   "number": "АР-2021/015-ДС1",
+   "date": "20.12.2021",
+   "parent_number": "АР-2021/015",
+   "parent_date": "15.03.2021",
+   "effective_from": "01.01.2022",
+   "valid_until": null,
+   "counterparty_legal_form": "ООО",
+   "invalidates": [],
+   "changes": [
+    {
+     "target_document": "АР-2021/015",
+     "target_clause": "п. 4.1",
+     "action": "restate"
+    }
+   ]
+  },
+  "Северный квартал (аренда)/ДС2 аренда 2023.pdf": {
+   "doc_type": "supplementary_agreement",
+   "number": "АР-2021/015-ДС2",
+   "date": "10.11.2022",
+   "parent_number": "АР-2021/015",
+   "parent_date": "15.03.2021",
+   "effective_from": "01.01.2023",
+   "valid_until": null,
+   "counterparty_legal_form": "ООО",
+   "invalidates": [],
+   "changes": [
+    {
+     "target_document": "АР-2021/015",
+     "target_clause": "п. 4.1",
+     "action": "restate"
+    },
+    {
+     "target_document": "АР-2021/015",
+     "target_clause": "п. 5.2",
+     "action": "add"
+    },
+    {
+     "target_document": "АР-2021/015-С",
+     "target_clause": "п. 2.3 Соглашения о порядке доступа",
+     "action": "restate"
+    }
+   ]
+  },
+  "Северный квартал (аренда)/ДС3 аренда скан.pdf": {
+   "doc_type": "supplementary_agreement",
+   "number": "АР-2021/015-ДС3",
+   "date": "01.09.2026",
+   "parent_number": "АР-2021/015",
+   "parent_date": "15.03.2021",
+   "effective_from": "01.09.2026",
+   "valid_until": null,
+   "counterparty_legal_form": "ООО",
+   "invalidates": [],
+   "changes": [
+    {
+     "target_document": "АР-2021/015",
+     "target_clause": "п. 4.1",
+     "action": "restate"
+    }
+   ]
+  },
+  "Бизнес-центр Обь (аренда офиса)/Договор аренды офиса АР-2023-007.pdf": {
+   "doc_type": "main_contract",
+   "number": "АР-2023/007",
+   "date": "01.06.2023",
+   "parent_number": null,
+   "parent_date": null,
+   "effective_from": "01.06.2023",
+   "valid_until": "31.12.2027",
+   "counterparty_legal_form": "ООО",
+   "invalidates": [],
+   "changes": []
+  },
+  "ТехноСнаб (поставка)/Договор поставки П-118-22.pdf": {
+   "doc_type": "main_contract",
+   "number": "П-118/22",
+   "date": "03.02.2022",
+   "parent_number": null,
+   "parent_date": null,
+   "effective_from": "03.02.2022",
+   "valid_until": null,
+   "counterparty_legal_form": "ООО",
+   "invalidates": [],
+   "changes": []
+  },
+  "ТехноСнаб (поставка)/ДС1 поставка.pdf": {
+   "doc_type": "supplementary_agreement",
+   "number": "П-118/22-1",
+   "date": "15.06.2022",
+   "parent_number": "П-118/22",
+   "parent_date": "02.02.2022",
+   "effective_from": "01.07.2022",
+   "valid_until": null,
+   "counterparty_legal_form": "ООО",
+   "invalidates": [],
+   "changes": [
+    {
+     "target_document": "П-118/22",
+     "target_clause": "п. 2.1",
+     "action": "restate"
+    },
+    {
+     "target_document": "П-118/22",
+     "target_clause": "п. 3.1",
+     "action": "restate"
+    }
+   ]
+  },
+  "ТехноСнаб (поставка)/ДС2 поставка.pdf": {
+   "doc_type": "supplementary_agreement",
+   "number": "П-118/22-2",
+   "date": "20.02.2023",
+   "parent_number": "П-118/22",
+   "parent_date": "03.02.2022",
+   "effective_from": "01.03.2023",
+   "valid_until": null,
+   "counterparty_legal_form": "ООО",
+   "invalidates": [],
+   "changes": [
+    {
+     "target_document": "П-118/22",
+     "target_clause": "п. 3.1",
+     "action": "restate"
+    }
+   ]
+  },
+  "Северный квартал (аренда)/ДС3 поставка.pdf": {
+   "doc_type": "supplementary_agreement",
+   "number": "П-118/22-3",
+   "date": "01.03.2023",
+   "parent_number": "П-118/22",
+   "parent_date": "03.02.2022",
+   "effective_from": "01.03.2023",
+   "valid_until": null,
+   "counterparty_legal_form": "ООО",
+   "invalidates": [
+    "П-118/22-2"
+   ],
+   "changes": [
+    {
+     "target_document": "П-118/22",
+     "target_clause": "п. 3.1",
+     "action": "restate"
+    }
+   ]
+  },
+  "ТехноСнаб (поставка)/ДС4 к ДС1 поставка.pdf": {
+   "doc_type": "supplementary_agreement",
+   "number": "П-118/22-4",
+   "date": "10.10.2023",
+   "parent_number": "П-118/22-1",
+   "parent_date": "15.06.2022",
+   "effective_from": "01.11.2023",
+   "valid_until": null,
+   "counterparty_legal_form": "ООО",
+   "invalidates": [],
+   "changes": [
+    {
+     "target_document": "П-118/22-1",
+     "target_clause": "п. 1 ДС П-118/22-1 (п. 2.1 Договора)",
+     "action": "restate"
+    }
+   ]
+  },
+  "Чистый двор (услуги)/ДС5 услуги.pdf": {
+   "doc_type": "supplementary_agreement",
+   "number": "У-77/5",
+   "date": "01.02.2024",
+   "parent_number": "У-77",
+   "parent_date": "10.01.2020",
+   "effective_from": "01.02.2024",
+   "valid_until": null,
+   "counterparty_legal_form": "ИП",
+   "invalidates": [],
+   "changes": [
+    {
+     "target_document": "У-77",
+     "target_clause": "п. 3.1",
+     "action": "restate"
+    }
+   ]
+  },
+  "Чистый двор (услуги)/ДС6 услуги скан.pdf": {
+   "doc_type": "supplementary_agreement",
+   "number": "У-77/6",
+   "date": "01.03.2025",
+   "parent_number": "У-77",
+   "parent_date": "10.01.2020",
+   "effective_from": "01.03.2025",
+   "valid_until": "31.05.2025",
+   "counterparty_legal_form": "ИП",
+   "invalidates": [],
+   "changes": [
+    {
+     "target_document": "У-77",
+     "target_clause": "дополнительные услуги (вывоз снега)",
+     "action": "new_obligation"
+    }
+   ]
+  }
+ },
+ "chains": {
+  "АР-2023/007": {
+   "main": true,
+   "docs": [
+    "АР-2023/007"
+   ]
+  },
+  "АР-2021/015": {
+   "main": true,
+   "docs": [
+    "АР-2021/015",
+    "АР-2021/015-ДС1",
+    "АР-2021/015-ДС2",
+    "АР-2021/015-ДС3"
+   ]
+  },
+  "П-118/22": {
+   "main": true,
+   "docs": [
+    "П-118/22",
+    "П-118/22-1",
+    "П-118/22-2",
+    "П-118/22-3",
+    "П-118/22-4"
+   ]
+  },
+  "У-77": {
+   "main": false,
+   "docs": [
+    "У-77/5",
+    "У-77/6"
+   ]
+  }
+ },
+ "invalidated": [
+  "П-118/22-2"
+ ]
+}

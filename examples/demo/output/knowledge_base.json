@@ -1,0 +1,2824 @@
+{
+ "saved_at": "2026-09-28T12:48:40",
+ "documents": {
+  "doc_232aee6c": {
+   "doc_id": "doc_232aee6c",
+   "path": "Бизнес-центр Обь (аренда офиса)/Договор аренды офиса АР-2023-007.pdf",
+   "folder": "Бизнес-центр Обь (аренда офиса)",
+   "file": "Договор аренды офиса АР-2023-007.pdf",
+   "size_bytes": 73197,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_98d3041d": {
+   "doc_id": "doc_98d3041d",
+   "path": "Северный квартал (аренда)/Договор аренды АР-2021-015.pdf",
+   "folder": "Северный квартал (аренда)",
+   "file": "Договор аренды АР-2021-015.pdf",
+   "size_bytes": 73609,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_acf1f88a": {
+   "doc_id": "doc_acf1f88a",
+   "path": "Северный квартал (аренда)/ДС1 к договору аренды.pdf",
+   "folder": "Северный квартал (аренда)",
+   "file": "ДС1 к договору аренды.pdf",
+   "size_bytes": 72798,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_4857d7b4": {
+   "doc_id": "doc_4857d7b4",
+   "path": "Северный квартал (аренда)/ДС2 аренда 2023.pdf",
+   "folder": "Северный квартал (аренда)",
+   "file": "ДС2 аренда 2023.pdf",
+   "size_bytes": 72924,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_931e3d61": {
+   "doc_id": "doc_931e3d61",
+   "path": "Северный квартал (аренда)/ДС3 аренда скан.pdf",
+   "folder": "Северный квартал (аренда)",
+   "file": "ДС3 аренда скан.pdf",
+   "size_bytes": 1174626,
+   "pages": 1,
+   "text_pages": 0,
+   "needs_ocr": true,
+   "format": "pdf_scan"
+  },
+  "doc_53ab76a9": {
+   "doc_id": "doc_53ab76a9",
+   "path": "Северный квартал (аренда)/ДС3 поставка.pdf",
+   "folder": "Северный квартал (аренда)",
+   "file": "ДС3 поставка.pdf",
+   "size_bytes": 72731,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_6039766d": {
+   "doc_id": "doc_6039766d",
+   "path": "ТехноСнаб (поставка)/Договор поставки П-118-22.pdf",
+   "folder": "ТехноСнаб (поставка)",
+   "file": "Договор поставки П-118-22.pdf",
+   "size_bytes": 73064,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_5978bd08": {
+   "doc_id": "doc_5978bd08",
+   "path": "ТехноСнаб (поставка)/ДС1 поставка.pdf",
+   "folder": "ТехноСнаб (поставка)",
+   "file": "ДС1 поставка.pdf",
+   "size_bytes": 72787,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_7bbad667": {
+   "doc_id": "doc_7bbad667",
+   "path": "ТехноСнаб (поставка)/ДС2 поставка.pdf",
+   "folder": "ТехноСнаб (поставка)",
+   "file": "ДС2 поставка.pdf",
+   "size_bytes": 72665,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_d071e118": {
+   "doc_id": "doc_d071e118",
+   "path": "ТехноСнаб (поставка)/ДС4 к ДС1 поставка.pdf",
+   "folder": "ТехноСнаб (поставка)",
+   "file": "ДС4 к ДС1 поставка.pdf",
+   "size_bytes": 72651,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_c31f66a0": {
+   "doc_id": "doc_c31f66a0",
+   "path": "ТехноСнаб (поставка)/Реестр платежей 2024.xlsx",
+   "folder": "ТехноСнаб (поставка)",
+   "file": "Реестр платежей 2024.xlsx",
+   "size_bytes": 47,
+   "pages": 0,
+   "text_pages": 0,
+   "needs_ocr": false,
+   "format": "unsupported"
+  },
+  "doc_e8fcfcaf": {
+   "doc_id": "doc_e8fcfcaf",
+   "path": "Чистый двор (услуги)/ДС5 услуги.pdf",
+   "folder": "Чистый двор (услуги)",
+   "file": "ДС5 услуги.pdf",
+   "size_bytes": 72768,
+   "pages": 1,
+   "text_pages": 1,
+   "needs_ocr": false,
+   "format": "pdf_text"
+  },
+  "doc_67225332": {
+   "doc_id": "doc_67225332",
+   "path": "Чистый двор (услуги)/ДС6 услуги скан.pdf",
+   "folder": "Чистый двор (услуги)",
+   "file": "ДС6 услуги скан.pdf",
+   "size_bytes": 1174626,
+   "pages": 1,
+   "text_pages": 0,
+   "needs_ocr": true,
+   "format": "pdf_scan"
+  }
+ },
+ "parse_status": {
+  "doc_232aee6c": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 1183,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_98d3041d": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 1832,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_acf1f88a": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 675,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_4857d7b4": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 892,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_931e3d61": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 526,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "ocr"
+   },
+   "warnings": [],
+   "method": "ocr"
+  },
+  "doc_53ab76a9": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 600,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_6039766d": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 1076,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_5978bd08": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 699,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_7bbad667": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 521,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_d071e118": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 533,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_c31f66a0": {
+   "recognized": false,
+   "reason": "Формат не поддерживается — документ помечается нераспознанным",
+   "quality": {
+    "source": "unsupported"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_e8fcfcaf": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 627,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "text_layer"
+   },
+   "warnings": [],
+   "method": "auto"
+  },
+  "doc_67225332": {
+   "recognized": true,
+   "reason": "",
+   "quality": {
+    "chars": 495,
+    "cyrillic_ratio": 1.0,
+    "unreadable_marks": 0,
+    "low_legibility_pages": [],
+    "empty_pages": [],
+    "source": "ocr"
+   },
+   "warnings": [],
+   "method": "ocr"
+  }
+ },
+ "cards": {
+  "doc_232aee6c": {
+   "doc_id": "doc_232aee6c",
+   "file": "Договор аренды офиса АР-2023-007.pdf",
+   "folder": "Бизнес-центр Обь (аренда офиса)",
+   "text_source": "text_layer",
+   "doc_type": "main_contract",
+   "title": "Договор аренды офисного помещения",
+   "number": {
+    "value": "АР-2023/007",
+    "quote": "ДОГОВОР АРЕНДЫ ОФИСНОГО ПОМЕЩЕНИЯ № АР-2023/007",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2023-06-01",
+    "quote": "г. Новосибирск «01» июня 2023 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Новосибирск",
+   "parent_number": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "parent_title": null,
+   "counterparty": {
+    "value": "ООО «Бизнес-центр Обь»",
+    "quote": "Общество с ограниченной ответственностью «Бизнес-центр Обь»",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "lease",
+   "subject_summary": "Аренда офисного помещения 180 кв. м.",
+   "effective_from": {
+    "value": "2023-06-01",
+    "quote": "Договор вступает в силу с момента подписания и действует до 31.12.2027.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": "2027-12-31",
+    "quote": "Договор вступает в силу с момента подписания и действует до 31.12.2027.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "key_terms": [
+    {
+     "term": "subject",
+     "summary": "Аренда офисного помещения площадью 180 кв. м.",
+     "clause_ref": "п. 1.1",
+     "quote": "офисное помещение площадью 180 кв. м на 5 этаже бизнес-центра",
+     "confidence": 0.9
+    },
+    {
+     "term": "term",
+     "summary": "Действует до 31.12.2027 без автоматического продления.",
+     "clause_ref": "п. 2.1",
+     "quote": "Договор вступает в силу с момента подписания и действует до 31.12.2027.",
+     "confidence": 0.9
+    },
+    {
+     "term": "remuneration",
+     "summary": "Арендная плата 210 000 руб. в месяц, включая НДС и коммунальные платежи.",
+     "clause_ref": "п. 4.1",
+     "quote": "Арендная плата составляет 210 000 (двести десять тысяч) рублей в месяц, включая НДС и коммунальные платежи.",
+     "confidence": 0.9
+    },
+    {
+     "term": "payment_procedure",
+     "summary": "Оплата ежемесячно не позднее 10 числа.",
+     "clause_ref": "п. 4.2",
+     "quote": "Арендная плата вносится ежемесячно не позднее 10 (десятого) числа текущего месяца.",
+     "confidence": 0.9
+    },
+    {
+     "term": "liability",
+     "summary": "Пени 0,1% от задолженности за каждый день просрочки.",
+     "clause_ref": "п. 5.1",
+     "quote": "Арендатор уплачивает пени в размере 0,1% от суммы задолженности за каждый день просрочки",
+     "confidence": 0.9
+    },
+    {
+     "term": "termination",
+     "summary": "Односторонний отказ с уведомлением не позднее чем за 30 дней.",
+     "clause_ref": "п. 6.1",
+     "quote": "письменно уведомив другую Сторону не позднее чем за 30 (тридцать) календарных дней",
+     "confidence": 0.9
+    }
+   ],
+   "changes": [],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [
+    {
+     "field": "key_terms[2].obligations",
+     "severity": "rejected",
+     "reason": "цитата не найдена в тексте документа (совпадение 56%)",
+     "raw_value": "Обеспечительный платёж 210 000 руб. в течение 5 рабочих дней.",
+     "doc_id": "doc_232aee6c"
+    }
+   ],
+   "status": "partial"
+  },
+  "doc_98d3041d": {
+   "doc_id": "doc_98d3041d",
+   "file": "Договор аренды АР-2021-015.pdf",
+   "folder": "Северный квартал (аренда)",
+   "text_source": "text_layer",
+   "doc_type": "main_contract",
+   "title": "Договор аренды нежилого помещения",
+   "number": {
+    "value": "АР-2021/015",
+    "quote": "ДОГОВОР АРЕНДЫ НЕЖИЛОГО ПОМЕЩЕНИЯ № АР-2021/015",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2021-03-15",
+    "quote": "г. Новосибирск «15» марта 2021 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Новосибирск",
+   "parent_number": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "parent_title": null,
+   "counterparty": {
+    "value": "ООО «Северный квартал»",
+    "quote": "Общество с ограниченной ответственностью «Северный квартал», именуемое в дальнейшем «Арендодатель»",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "lease",
+   "subject_summary": "Аренда нежилого помещения 640 кв. м под склад.",
+   "effective_from": {
+    "value": "2021-03-15",
+    "quote": "Договор вступает в силу с момента подписания и действует до 31.12.2023",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [
+    {
+     "term": "subject",
+     "summary": "Аренда нежилого помещения площадью 640 кв. м под склад.",
+     "clause_ref": "п. 1.1",
+     "quote": "нежилое помещение общей площадью 640 кв. м по адресу: г. Новосибирск, ул. Складская, д. 12",
+     "confidence": 0.9
+    },
+    {
+     "term": "term",
+     "summary": "Действует до 31.12.2023 с автоматическим продлением на каждый следующий год; уведомление о прекращении не позднее чем за 60 дней.",
+     "clause_ref": "п. 2.1",
+     "quote": "Срок действия договора автоматически продлевается на каждый последующий календарный год",
+     "confidence": 0.9
+    },
+    {
+     "term": "remuneration",
+     "summary": "Арендная плата 450 000 руб. в месяц, включая НДС.",
+     "clause_ref": "п. 4.1",
+     "quote": "Арендная плата составляет 450 000 (четыреста пятьдесят тысяч) рублей в месяц, включая НДС.",
+     "confidence": 0.9
+    },
+    {
+     "term": "payment_procedure",
+     "summary": "Оплата ежемесячно не позднее 5 числа текущего месяца.",
+     "clause_ref": "п. 4.2",
+     "quote": "Арендная плата вносится ежемесячно не позднее 5 (пятого) числа текущего месяца",
+     "confidence": 0.9
+    },
+    {
+     "term": "liability",
+     "summary": "Пени 0,05% от задолженности за каждый день просрочки.",
+     "clause_ref": "п. 5.1",
+     "quote": "Арендатор уплачивает пени в размере 0,05% от суммы задолженности за каждый день просрочки",
+     "confidence": 0.9
+    },
+    {
+     "term": "termination",
+     "summary": "Односторонний отказ с уведомлением не позднее чем за 90 дней.",
+     "clause_ref": "п. 6.1",
+     "quote": "письменно уведомив другую Сторону не позднее чем за 90 (девяносто) календарных дней",
+     "confidence": 0.9
+    }
+   ],
+   "changes": [],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [
+    {
+     "field": "valid_until",
+     "severity": "rejected",
+     "reason": "в документе есть условие об автоматической пролонгации — дата окончания не окончательная",
+     "raw_value": "2023-12-31",
+     "doc_id": "doc_98d3041d"
+    }
+   ],
+   "status": "partial"
+  },
+  "doc_acf1f88a": {
+   "doc_id": "doc_acf1f88a",
+   "file": "ДС1 к договору аренды.pdf",
+   "folder": "Северный квартал (аренда)",
+   "text_source": "text_layer",
+   "doc_type": "supplementary_agreement",
+   "title": "Дополнительное соглашение",
+   "number": {
+    "value": "АР-2021/015-ДС1",
+    "quote": "ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ № АР-2021/015-ДС1",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2021-12-20",
+    "quote": "г. Новосибирск «20» декабря 2021 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Новосибирск",
+   "parent_number": {
+    "value": "АР-2021/015",
+    "quote": "к Договору аренды нежилого помещения № АР-2021/015",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": "2021-03-15",
+    "quote": "№ АР-2021/015 от «15» марта 2021 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_title": "Договор аренды нежилого помещения",
+   "counterparty": {
+    "value": "ООО «Северный квартал»",
+    "quote": "ООО «Северный квартал» (Арендодатель)",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "lease",
+   "subject_summary": "Новый размер арендной платы с 01.01.2022.",
+   "effective_from": {
+    "value": "2022-01-01",
+    "quote": "распространяет своё действие на отношения Сторон, возникшие с 01.01.2022",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [],
+   "changes": [
+    {
+     "target_document": "АР-2021/015",
+     "target_clause": "п. 4.1",
+     "action": "restate",
+     "affected_terms": [
+      "remuneration"
+     ],
+     "new_value_summary": "Арендная плата 480 000 руб. в месяц, включая НДС.",
+     "effective_from": "2022-01-01",
+     "quote": "Арендная плата составляет 480 000 (четыреста восемьдесят тысяч) рублей в месяц",
+     "confidence": 0.9
+    }
+   ],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [],
+   "status": "ok"
+  },
+  "doc_4857d7b4": {
+   "doc_id": "doc_4857d7b4",
+   "file": "ДС2 аренда 2023.pdf",
+   "folder": "Северный квартал (аренда)",
+   "text_source": "text_layer",
+   "doc_type": "supplementary_agreement",
+   "title": "Дополнительное соглашение",
+   "number": {
+    "value": "АР-2021/015-ДС2",
+    "quote": "ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ № АР-2021/015-ДС2",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2022-11-10",
+    "quote": "г. Новосибирск «10» ноября 2022 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Новосибирск",
+   "parent_number": {
+    "value": "АР-2021/015",
+    "quote": "к Договору аренды нежилого помещения № АР-2021/015",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": "2021-03-15",
+    "quote": "№ АР-2021/015 от «15» марта 2021 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_title": "Договор аренды нежилого помещения",
+   "counterparty": {
+    "value": "ООО «Северный квартал»",
+    "quote": "ООО «Северный квартал» (Арендодатель)",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "lease",
+   "subject_summary": "Новая арендная плата с 01.01.2023, штраф за просрочку возврата помещения, круглосуточный доступ.",
+   "effective_from": {
+    "value": "2023-01-01",
+    "quote": "распространяет своё действие на отношения Сторон, возникшие с 01.01.2023",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [],
+   "changes": [
+    {
+     "target_document": "АР-2021/015",
+     "target_clause": "п. 4.1",
+     "action": "restate",
+     "affected_terms": [
+      "remuneration"
+     ],
+     "new_value_summary": "Арендная плата 510 000 руб. в месяц, включая НДС.",
+     "effective_from": "2023-01-01",
+     "quote": "Арендная плата составляет 510 000 (пятьсот десять тысяч) рублей в месяц",
+     "confidence": 0.9
+    },
+    {
+     "target_document": "АР-2021/015",
+     "target_clause": "п. 5.2",
+     "action": "add",
+     "affected_terms": [
+      "liability"
+     ],
+     "new_value_summary": "Штраф 100 000 руб. за нарушение срока возврата помещения.",
+     "effective_from": "2023-01-01",
+     "quote": "За нарушение срока возврата помещения Арендатор уплачивает штраф 100 000 (сто тысяч) рублей",
+     "confidence": 0.9
+    },
+    {
+     "target_document": "АР-2021/015-С",
+     "target_clause": "п. 2.3 Соглашения о порядке доступа",
+     "action": "restate",
+     "affected_terms": [
+      "obligations"
+     ],
+     "new_value_summary": "Круглосуточный доступ транспорта Арендатора на территорию.",
+     "effective_from": "2023-01-01",
+     "quote": "Доступ транспорта Арендатора на территорию осуществляется круглосуточно",
+     "confidence": 0.9
+    }
+   ],
+   "invalidates": [],
+   "related_contracts": [
+    {
+     "number": "АР-2021/015-С",
+     "date": "2021-03-15",
+     "title": "Соглашение о порядке доступа на территорию",
+     "relation": "изменяемое соглашение"
+    }
+   ],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [],
+   "status": "ok"
+  },
+  "doc_931e3d61": {
+   "doc_id": "doc_931e3d61",
+   "file": "ДС3 аренда скан.pdf",
+   "folder": "Северный квартал (аренда)",
+   "text_source": "ocr",
+   "doc_type": "supplementary_agreement",
+   "title": "Дополнительное соглашение",
+   "number": {
+    "value": "АР-2021/015-ДС3",
+    "quote": "ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ № АР-2021/015-ДС3",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "city": "г. Новосибирск",
+   "parent_number": {
+    "value": "АР-2021/015",
+    "quote": "к Договору аренды нежилого помещения № АР-2021/015",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": "2021-03-15",
+    "quote": "№ АР-2021/015 от «15» марта 2021 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_title": "Договор аренды нежилого помещения",
+   "counterparty": {
+    "value": "ООО «Северный квартал»",
+    "quote": "ООО «Северный квартал» (Арендодатель)",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "lease",
+   "subject_summary": "Новый размер арендной платы с 01.01.2027.",
+   "effective_from": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [],
+   "changes": [
+    {
+     "target_document": "АР-2021/015",
+     "target_clause": "п. 4.1",
+     "action": "restate",
+     "affected_terms": [
+      "remuneration"
+     ],
+     "new_value_summary": "Арендная плата 560 000 руб. в месяц с 01.01.2027.",
+     "effective_from": "2027-01-01",
+     "quote": "Арендная плата составляет 560 000 (пятьсот шестьдесят тысяч) рублей в месяц",
+     "confidence": 0.9
+    }
+   ],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [
+    {
+     "field": "date",
+     "severity": "warning",
+     "reason": "значение пересекается с неуверенно распознанным фрагментом OCR: ««01» сентября 2026 г.»",
+     "raw_value": "01.09.2026",
+     "doc_id": "doc_931e3d61"
+    },
+    {
+     "field": "date",
+     "severity": "rejected",
+     "reason": "низкая уверенность распознавания (0.57 < 0.7)",
+     "raw_value": "01.09.2026",
+     "doc_id": "doc_931e3d61"
+    },
+    {
+     "field": "effective_from",
+     "severity": "warning",
+     "reason": "значение пересекается с неуверенно распознанным фрагментом OCR: ««01» сентября 2026 г.»",
+     "raw_value": "01.09.2026",
+     "doc_id": "doc_931e3d61"
+    },
+    {
+     "field": "effective_from",
+     "severity": "rejected",
+     "reason": "низкая уверенность распознавания (0.57 < 0.7)",
+     "raw_value": "01.09.2026",
+     "doc_id": "doc_931e3d61"
+    }
+   ],
+   "status": "partial"
+  },
+  "doc_53ab76a9": {
+   "doc_id": "doc_53ab76a9",
+   "file": "ДС3 поставка.pdf",
+   "folder": "Северный квартал (аренда)",
+   "text_source": "text_layer",
+   "doc_type": "supplementary_agreement",
+   "title": "Дополнительное соглашение",
+   "number": {
+    "value": "П-118/22-3",
+    "quote": "ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ № П-118/22-3",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2023-03-01",
+    "quote": "г. Екатеринбург «01» марта 2023 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Екатеринбург",
+   "parent_number": {
+    "value": "П-118/22",
+    "quote": "к Договору поставки № П-118/22",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": "2022-02-03",
+    "quote": "к Договору поставки № П-118/22 от «03» февраля 2022 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_title": "Договор поставки",
+   "counterparty": {
+    "value": "ООО «ТехноСнаб»",
+    "quote": "ООО «ТехноСнаб» (Поставщик)",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "sale",
+   "subject_summary": "Отменяет ДС П-118/22-2; отсрочка платежа 50 дней с 01.03.2023.",
+   "effective_from": {
+    "value": "2023-03-01",
+    "quote": "распространяет своё действие на отношения Сторон, возникшие с 01.03.2023",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [],
+   "changes": [
+    {
+     "target_document": "П-118/22",
+     "target_clause": "п. 3.1",
+     "action": "restate",
+     "affected_terms": [
+      "payment_procedure"
+     ],
+     "new_value_summary": "Оплата в течение 50 дней с даты поставки.",
+     "effective_from": "2023-03-01",
+     "quote": "Покупатель оплачивает каждую партию товара в течение 50 (пятидесяти) календарных дней",
+     "confidence": 0.9
+    }
+   ],
+   "invalidates": [
+    {
+     "number": "П-118/22-2",
+     "date": "2023-02-20",
+     "title": "Дополнительное соглашение",
+     "relation": "считать недействительным"
+    }
+   ],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [],
+   "status": "ok"
+  },
+  "doc_6039766d": {
+   "doc_id": "doc_6039766d",
+   "file": "Договор поставки П-118-22.pdf",
+   "folder": "ТехноСнаб (поставка)",
+   "text_source": "text_layer",
+   "doc_type": "main_contract",
+   "title": "Договор поставки",
+   "number": {
+    "value": "П-118/22",
+    "quote": "ДОГОВОР ПОСТАВКИ № П-118/22",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2022-02-03",
+    "quote": "г. Екатеринбург «03» февраля 2022 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Екатеринбург",
+   "parent_number": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "parent_title": null,
+   "counterparty": {
+    "value": "ООО «ТехноСнаб»",
+    "quote": "Общество с ограниченной ответственностью «ТехноСнаб», именуемое в дальнейшем «Поставщик»",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "sale",
+   "subject_summary": "Поставка складского оборудования партиями по заявкам.",
+   "effective_from": {
+    "value": "2022-02-03",
+    "quote": "Договор вступает в силу с момента подписания и действует до полного исполнения",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [
+    {
+     "term": "subject",
+     "summary": "Поставка складского оборудования партиями по заявкам Покупателя.",
+     "clause_ref": "п. 1.1",
+     "quote": "Поставщик обязуется поставлять Покупателю складское оборудование",
+     "confidence": 0.9
+    },
+    {
+     "term": "remuneration",
+     "summary": "Цена по прайс-листу Поставщика, скидка 5%.",
+     "clause_ref": "п. 2.1",
+     "quote": "Скидка Покупателю составляет 5% от цены прайс-листа.",
+     "confidence": 0.9
+    },
+    {
+     "term": "payment_procedure",
+     "summary": "Оплата каждой партии в течение 30 дней с даты поставки.",
+     "clause_ref": "п. 3.1",
+     "quote": "Покупатель оплачивает каждую партию товара в течение 30 (тридцати) календарных дней с даты поставки.",
+     "confidence": 0.9
+    },
+    {
+     "term": "obligations",
+     "summary": "Поставка на склад Покупателя в течение 10 рабочих дней с даты заявки.",
+     "clause_ref": "п. 4.1",
+     "quote": "Поставка осуществляется силами Поставщика на склад Покупателя в течение 10 рабочих дней с даты заявки.",
+     "confidence": 0.9
+    },
+    {
+     "term": "liability",
+     "summary": "Неустойка 0,1% от стоимости непоставленного товара за день просрочки.",
+     "clause_ref": "п. 5.1",
+     "quote": "За просрочку поставки Поставщик уплачивает неустойку 0,1% от стоимости непоставленного товара",
+     "confidence": 0.9
+    },
+    {
+     "term": "term",
+     "summary": "Действует до полного исполнения обязательств.",
+     "clause_ref": "п. 6.1",
+     "quote": "действует до полного исполнения Сторонами обязательств",
+     "confidence": 0.9
+    }
+   ],
+   "changes": [],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [
+    {
+     "field": "key_terms[6].reporting",
+     "severity": "rejected",
+     "reason": "цитата не найдена в тексте документа (совпадение 0%)",
+     "raw_value": "Поставщик ежеквартально направляет акт сверки.",
+     "doc_id": "doc_6039766d"
+    }
+   ],
+   "status": "partial"
+  },
+  "doc_5978bd08": {
+   "doc_id": "doc_5978bd08",
+   "file": "ДС1 поставка.pdf",
+   "folder": "ТехноСнаб (поставка)",
+   "text_source": "text_layer",
+   "doc_type": "supplementary_agreement",
+   "title": "Дополнительное соглашение",
+   "number": {
+    "value": "П-118/22-1",
+    "quote": "ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ № П-118/22-1",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2022-06-15",
+    "quote": "г. Екатеринбург «15» июня 2022 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Екатеринбург",
+   "parent_number": {
+    "value": "П-118/22",
+    "quote": "к Договору поставки № П-118/22",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": "2022-02-02",
+    "quote": "к Договору поставки № П-118/22 от «02» февраля 2022 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_title": "Договор поставки",
+   "counterparty": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "sale",
+   "subject_summary": "Скидка 7% и отсрочка платежа 45 дней с 01.07.2022.",
+   "effective_from": {
+    "value": "2022-07-01",
+    "quote": "распространяет своё действие на отношения Сторон, возникшие с 01.07.2022",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [],
+   "changes": [
+    {
+     "target_document": "П-118/22",
+     "target_clause": "п. 2.1",
+     "action": "restate",
+     "affected_terms": [
+      "remuneration"
+     ],
+     "new_value_summary": "Скидка Покупателю 7% от цены прайс-листа.",
+     "effective_from": "2022-07-01",
+     "quote": "Скидка Покупателю составляет 7% от цены прайс-листа.",
+     "confidence": 0.9
+    },
+    {
+     "target_document": "П-118/22",
+     "target_clause": "п. 3.1",
+     "action": "restate",
+     "affected_terms": [
+      "payment_procedure"
+     ],
+     "new_value_summary": "Оплата в течение 45 дней с даты поставки.",
+     "effective_from": "2022-07-01",
+     "quote": "Покупатель оплачивает каждую партию товара в течение 45 (сорока пяти) календарных дней с даты поставки.",
+     "confidence": 0.9
+    }
+   ],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [
+    {
+     "field": "counterparty",
+     "severity": "rejected",
+     "reason": "слова названия отсутствуют в цитате: ромашка",
+     "raw_value": "ООО «Ромашка»",
+     "doc_id": "doc_5978bd08"
+    }
+   ],
+   "status": "partial"
+  },
+  "doc_7bbad667": {
+   "doc_id": "doc_7bbad667",
+   "file": "ДС2 поставка.pdf",
+   "folder": "ТехноСнаб (поставка)",
+   "text_source": "text_layer",
+   "doc_type": "supplementary_agreement",
+   "title": "Дополнительное соглашение",
+   "number": {
+    "value": "П-118/22-2",
+    "quote": "ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ № П-118/22-2",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2023-02-20",
+    "quote": "г. Екатеринбург «20» февраля 2023 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Екатеринбург",
+   "parent_number": {
+    "value": "П-118/22",
+    "quote": "к Договору поставки № П-118/22",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": "2022-02-03",
+    "quote": "к Договору поставки № П-118/22 от «03» февраля 2022 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_title": "Договор поставки",
+   "counterparty": {
+    "value": "ООО «ТехноСнаб»",
+    "quote": "ООО «ТехноСнаб» (Поставщик)",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "sale",
+   "subject_summary": "Отсрочка платежа 60 дней с 01.03.2023.",
+   "effective_from": {
+    "value": "2023-03-01",
+    "quote": "распространяет своё действие на отношения Сторон, возникшие с 01.03.2023",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [],
+   "changes": [
+    {
+     "target_document": "П-118/22",
+     "target_clause": "п. 3.1",
+     "action": "restate",
+     "affected_terms": [
+      "payment_procedure"
+     ],
+     "new_value_summary": "Оплата в течение 60 дней с даты поставки.",
+     "effective_from": "2023-03-01",
+     "quote": "Покупатель оплачивает каждую партию товара в течение 60 (шестидесяти) календарных дней",
+     "confidence": 0.9
+    }
+   ],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [],
+   "status": "ok"
+  },
+  "doc_d071e118": {
+   "doc_id": "doc_d071e118",
+   "file": "ДС4 к ДС1 поставка.pdf",
+   "folder": "ТехноСнаб (поставка)",
+   "text_source": "text_layer",
+   "doc_type": "supplementary_agreement",
+   "title": "Дополнительное соглашение",
+   "number": {
+    "value": "П-118/22-4",
+    "quote": "ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ № П-118/22-4",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2023-10-10",
+    "quote": "г. Екатеринбург «10» октября 2023 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Екатеринбург",
+   "parent_number": {
+    "value": "П-118/22-1",
+    "quote": "к Дополнительному соглашению № П-118/22-1",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": "2022-06-15",
+    "quote": "№ П-118/22-1 от «15» июня 2022 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_title": "Дополнительное соглашение",
+   "counterparty": {
+    "value": "ООО «ТехноСнаб»",
+    "quote": "ООО «ТехноСнаб» (Поставщик)",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ООО",
+   "signatory_branch": null,
+   "subject_category": "sale",
+   "subject_summary": "Скидка 8% с 01.11.2023 (изменение ДС П-118/22-1).",
+   "effective_from": {
+    "value": "2023-11-01",
+    "quote": "распространяет своё действие на отношения Сторон, возникшие с 01.11.2023",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [],
+   "changes": [
+    {
+     "target_document": "П-118/22-1",
+     "target_clause": "п. 1 ДС П-118/22-1 (п. 2.1 Договора)",
+     "action": "restate",
+     "affected_terms": [
+      "remuneration"
+     ],
+     "new_value_summary": "Скидка Покупателю 8% от цены прайс-листа.",
+     "effective_from": "2023-11-01",
+     "quote": "Скидка Покупателю составляет 8% от цены прайс-листа.",
+     "confidence": 0.9
+    }
+   ],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [
+    {
+     "field": "changes[1] п. 4",
+     "severity": "rejected",
+     "reason": "изменяемый документ П-118/22-9 не упомянут в тексте — изменение не записано",
+     "raw_value": "Новый порядок приёмки.",
+     "doc_id": "doc_d071e118"
+    }
+   ],
+   "status": "partial"
+  },
+  "doc_e8fcfcaf": {
+   "doc_id": "doc_e8fcfcaf",
+   "file": "ДС5 услуги.pdf",
+   "folder": "Чистый двор (услуги)",
+   "text_source": "text_layer",
+   "doc_type": "supplementary_agreement",
+   "title": "Дополнительное соглашение",
+   "number": {
+    "value": "У-77/5",
+    "quote": "ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ № У-77/5",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2024-02-01",
+    "quote": "г. Новосибирск «01» февраля 2024 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Новосибирск",
+   "parent_number": {
+    "value": "У-77",
+    "quote": "к Договору оказания услуг по уборке территории № У-77",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": "2020-01-10",
+    "quote": "№ У-77 от «10» января 2020 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_title": "Договор оказания услуг по уборке территории",
+   "counterparty": {
+    "value": "ИП Лебедев Андрей Викторович",
+    "quote": "Индивидуальный предприниматель Лебедев Андрей Викторович, именуемый в дальнейшем «Исполнитель»",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ИП",
+   "signatory_branch": null,
+   "subject_category": "services",
+   "subject_summary": "Новая стоимость услуг по уборке с 01.02.2024.",
+   "effective_from": {
+    "value": "2024-02-01",
+    "quote": "распространяет своё действие на отношения Сторон, возникшие с 01.02.2024",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": null,
+    "quote": null,
+    "confidence": 0.0,
+    "source": "llm"
+   },
+   "key_terms": [],
+   "changes": [
+    {
+     "target_document": "У-77",
+     "target_clause": "п. 3.1",
+     "action": "restate",
+     "affected_terms": [
+      "remuneration"
+     ],
+     "new_value_summary": "Стоимость услуг 135 000 руб. в месяц, НДС не облагается.",
+     "effective_from": "2024-02-01",
+     "quote": "Стоимость услуг составляет 135 000 (сто тридцать пять тысяч) рублей в месяц",
+     "confidence": 0.9
+    }
+   ],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [
+    {
+     "field": "changes[1] п. 3.2",
+     "severity": "rejected",
+     "reason": "в описании есть значения, которых нет в тексте рядом с цитатой: 150000",
+     "raw_value": "Стоимость услуг 150 000 руб. в месяц.",
+     "doc_id": "doc_e8fcfcaf"
+    }
+   ],
+   "status": "partial"
+  },
+  "doc_67225332": {
+   "doc_id": "doc_67225332",
+   "file": "ДС6 услуги скан.pdf",
+   "folder": "Чистый двор (услуги)",
+   "text_source": "ocr",
+   "doc_type": "supplementary_agreement",
+   "title": "Дополнительное соглашение",
+   "number": {
+    "value": "У-77/6",
+    "quote": "ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ № У-77/6",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "date": {
+    "value": "2025-03-01",
+    "quote": "г. Новосибирск «01» марта 2025 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "city": "г. Новосибирск",
+   "parent_number": {
+    "value": "У-77",
+    "quote": "к Договору оказания услуг по уборке территории № У-77",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_date": {
+    "value": "2020-01-10",
+    "quote": "№ У-77 от «10» января 2020 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "parent_title": "Договор оказания услуг по уборке территории",
+   "counterparty": {
+    "value": "ИП Лебедев А. В.",
+    "quote": "ИП Лебедев А. В. (Исполнитель)",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "counterparty_legal_form": "ИП",
+   "signatory_branch": null,
+   "subject_category": "services",
+   "subject_summary": "Дополнительные услуги по вывозу снега до 31.05.2025.",
+   "effective_from": {
+    "value": "2025-03-01",
+    "quote": "Настоящее Соглашение вступает в силу с момента подписания",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "valid_until": {
+    "value": "2025-05-31",
+    "quote": "действует по 31.05.2025",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "key_terms": [],
+   "changes": [
+    {
+     "target_document": "У-77",
+     "target_clause": "дополнительные услуги (вывоз снега)",
+     "action": "new_obligation",
+     "affected_terms": [
+      "obligations"
+     ],
+     "new_value_summary": "Вывоз снега, 40 000 руб. в месяц.",
+     "effective_from": "2025-03-01",
+     "quote": "Стоимость дополнительных услуг составляет 40 000 (сорок тысяч) рублей в месяц",
+     "confidence": 0.9
+    }
+   ],
+   "invalidates": [],
+   "related_contracts": [],
+   "anonymized_fields": [],
+   "extraction_notes": [],
+   "issues": [],
+   "status": "ok"
+  }
+ },
+ "contracts": {
+  "АР-2023/007": {
+   "contract_id": "АР-2023/007",
+   "title": "Договор аренды офисного помещения",
+   "date": {
+    "value": "2023-06-01",
+    "quote": "г. Новосибирск «01» июня 2023 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "main_doc_id": "doc_232aee6c",
+   "supplement_doc_ids": [],
+   "counterparty": "ООО «Бизнес-центр Обь»",
+   "counterparty_legal_form": "ООО",
+   "city": "Новосибирск",
+   "subject_category": "lease",
+   "subject_summary": "Аренда офисного помещения 180 кв. м.",
+   "folders": [
+    "Бизнес-центр Обь (аренда офиса)"
+   ],
+   "related_contract_ids": [],
+   "timeline": [
+    {
+     "doc_id": "doc_232aee6c",
+     "number": "АР-2023/007",
+     "date": "2023-06-01",
+     "effective_from": "2023-06-01",
+     "valid_until": "2027-12-31",
+     "doc_type": "main_contract",
+     "summary": "Аренда офисного помещения 180 кв. м.",
+     "valid": true,
+     "invalid_reason": null
+    }
+   ],
+   "status": "active",
+   "issues": []
+  },
+  "АР-2021/015": {
+   "contract_id": "АР-2021/015",
+   "title": "Договор аренды нежилого помещения",
+   "date": {
+    "value": "2021-03-15",
+    "quote": "г. Новосибирск «15» марта 2021 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "main_doc_id": "doc_98d3041d",
+   "supplement_doc_ids": [
+    "doc_acf1f88a",
+    "doc_4857d7b4",
+    "doc_931e3d61"
+   ],
+   "counterparty": "ООО «Северный квартал»",
+   "counterparty_legal_form": "ООО",
+   "city": "Новосибирск",
+   "subject_category": "lease",
+   "subject_summary": "Аренда нежилого помещения 640 кв. м под склад.",
+   "folders": [
+    "Северный квартал (аренда)"
+   ],
+   "related_contract_ids": [
+    "АР-2021/015-С"
+   ],
+   "timeline": [
+    {
+     "doc_id": "doc_98d3041d",
+     "number": "АР-2021/015",
+     "date": "2021-03-15",
+     "effective_from": "2021-03-15",
+     "valid_until": null,
+     "doc_type": "main_contract",
+     "summary": "Аренда нежилого помещения 640 кв. м под склад.",
+     "valid": true,
+     "invalid_reason": null
+    },
+    {
+     "doc_id": "doc_acf1f88a",
+     "number": "АР-2021/015-ДС1",
+     "date": "2021-12-20",
+     "effective_from": "2022-01-01",
+     "valid_until": null,
+     "doc_type": "supplementary_agreement",
+     "summary": "Новый размер арендной платы с 01.01.2022.",
+     "valid": true,
+     "invalid_reason": null
+    },
+    {
+     "doc_id": "doc_4857d7b4",
+     "number": "АР-2021/015-ДС2",
+     "date": "2022-11-10",
+     "effective_from": "2023-01-01",
+     "valid_until": null,
+     "doc_type": "supplementary_agreement",
+     "summary": "Новая арендная плата с 01.01.2023, штраф за просрочку возврата помещения, круглосуточный доступ.",
+     "valid": true,
+     "invalid_reason": null
+    },
+    {
+     "doc_id": "doc_931e3d61",
+     "number": "АР-2021/015-ДС3",
+     "date": null,
+     "effective_from": null,
+     "valid_until": null,
+     "doc_type": "supplementary_agreement",
+     "summary": "Новый размер арендной платы с 01.01.2027.",
+     "valid": true,
+     "invalid_reason": null
+    }
+   ],
+   "status": "active",
+   "issues": [
+    {
+     "field": "changes",
+     "severity": "warning",
+     "reason": "АР-2021/015-ДС2 изменяет соглашение АР-2021/015-С, которого нет в пакете: исходная редакция неизвестна",
+     "raw_value": "АР-2021/015-С",
+     "doc_id": "doc_4857d7b4"
+    }
+   ]
+  },
+  "П-118/22": {
+   "contract_id": "П-118/22",
+   "title": "Договор поставки",
+   "date": {
+    "value": "2022-02-03",
+    "quote": "г. Екатеринбург «03» февраля 2022 г.",
+    "confidence": 0.95,
+    "source": "llm"
+   },
+   "main_doc_id": "doc_6039766d",
+   "supplement_doc_ids": [
+    "doc_5978bd08",
+    "doc_7bbad667",
+    "doc_53ab76a9",
+    "doc_d071e118"
+   ],
+   "counterparty": "ООО «ТехноСнаб»",
+   "counterparty_legal_form": "ООО",
+   "city": "Екатеринбург",
+   "subject_category": "sale",
+   "subject_summary": "Поставка складского оборудования партиями по заявкам.",
+   "folders": [
+    "Северный квартал (аренда)",
+    "ТехноСнаб (поставка)"
+   ],
+   "related_contract_ids": [],
+   "timeline": [
+    {
+     "doc_id": "doc_6039766d",
+     "number": "П-118/22",
+     "date": "2022-02-03",
+     "effective_from": "2022-02-03",
+     "valid_until": null,
+     "doc_type": "main_contract",
+     "summary": "Поставка складского оборудования партиями по заявкам.",
+     "valid": true,
+     "invalid_reason": null
+    },
+    {
+     "doc_id": "doc_5978bd08",
+     "number": "П-118/22-1",
+     "date": "2022-06-15",
+     "effective_from": "2022-07-01",
+     "valid_until": null,
+     "doc_type": "supplementary_agreement",
+     "summary": "Скидка 7% и отсрочка платежа 45 дней с 01.07.2022.",
+     "valid": true,
+     "invalid_reason": null
+    },
+    {
+     "doc_id": "doc_7bbad667",
+     "number": "П-118/22-2",
+     "date": "2023-02-20",
+     "effective_from": "2023-03-01",
+     "valid_until": null,
+     "doc_type": "supplementary_agreement",
+     "summary": "Отсрочка платежа 60 дней с 01.03.2023.",
+     "valid": false,
+     "invalid_reason": "признано недействительным соглашением П-118/22-3"
+    },
+    {
+     "doc_id": "doc_53ab76a9",
+     "number": "П-118/22-3",
+     "date": "2023-03-01",
+     "effective_from": "2023-03-01",
+     "valid_until": null,
+     "doc_type": "supplementary_agreement",
+     "summary": "Отменяет ДС П-118/22-2; отсрочка платежа 50 дней с 01.03.2023.",
+     "valid": true,
+     "invalid_reason": null
+    },
+    {
+     "doc_id": "doc_d071e118",
+     "number": "П-118/22-4",
+     "date": "2023-10-10",
+     "effective_from": "2023-11-01",
+     "valid_until": null,
+     "doc_type": "supplementary_agreement",
+     "summary": "Скидка 8% с 01.11.2023 (изменение ДС П-118/22-1).",
+     "valid": true,
+     "invalid_reason": null
+    }
+   ],
+   "status": "active",
+   "issues": [
+    {
+     "field": "folders",
+     "severity": "info",
+     "reason": "документы договора лежат в разных папках: ['Северный квартал (аренда)', 'ТехноСнаб (поставка)']",
+     "raw_value": null,
+     "doc_id": null
+    },
+    {
+     "field": "date",
+     "severity": "warning",
+     "reason": "противоречие: в договоре дата 2022-02-03, а в соглашениях П-118/22-1 договор датирован 2022-02-02. Дата договора взята из самого договора, ссылки соглашений не использованы",
+     "raw_value": {
+      "contract": "2022-02-03",
+      "references": {
+       "2022-02-02": [
+        "П-118/22-1"
+       ],
+       "2022-02-03": [
+        "П-118/22-2",
+        "П-118/22-3"
+       ]
+      }
+     },
+     "doc_id": null
+    }
+   ]
+  },
+  "У-77": {
+   "contract_id": "У-77",
+   "title": "Договор оказания услуг по уборке территории",
+   "date": {
+    "value": "2020-01-10",
+    "quote": null,
+    "confidence": 0.8,
+    "source": "cross_document"
+   },
+   "main_doc_id": null,
+   "supplement_doc_ids": [
+    "doc_e8fcfcaf",
+    "doc_67225332"
+   ],
+   "counterparty": "ИП Лебедев Андрей Викторович",
+   "counterparty_legal_form": "ИП",
+   "city": "Новосибирск",
+   "subject_category": "services",
+   "subject_summary": "Восстановлено по доп. соглашениям: Договор оказания услуг по уборке территории",
+   "folders": [
+    "Чистый двор (услуги)"
+   ],
+   "related_contract_ids": [],
+   "timeline": [
+    {
+     "doc_id": "doc_e8fcfcaf",
+     "number": "У-77/5",
+     "date": "2024-02-01",
+     "effective_from": "2024-02-01",
+     "valid_until": null,
+     "doc_type": "supplementary_agreement",
+     "summary": "Новая стоимость услуг по уборке с 01.02.2024.",
+     "valid": true,
+     "invalid_reason": null
+    },
+    {
+     "doc_id": "doc_67225332",
+     "number": "У-77/6",
+     "date": "2025-03-01",
+     "effective_from": "2025-03-01",
+     "valid_until": "2025-05-31",
+     "doc_type": "supplementary_agreement",
+     "summary": "Дополнительные услуги по вывозу снега до 31.05.2025.",
+     "valid": true,
+     "invalid_reason": null
+    }
+   ],
+   "status": "active",
+   "issues": [
+    {
+     "field": "main_doc",
+     "severity": "warning",
+     "reason": "основной договор У-77 отсутствует в пакете: цепочка восстановлена по ссылкам доп. соглашений",
+     "raw_value": "У-77",
+     "doc_id": "doc_e8fcfcaf"
+    },
+    {
+     "field": "date",
+     "severity": "info",
+     "reason": "дата договора восстановлена по ссылкам соглашений У-77/5, У-77/6",
+     "raw_value": "2020-01-10",
+     "doc_id": null
+    }
+   ]
+  }
+ },
+ "link_issues": [],
+ "consolidated": {
+  "АР-2023/007": {
+   "contract_id": "АР-2023/007",
+   "as_of": "2026-09-27",
+   "status": "active",
+   "terms": {
+    "subject": {
+     "term": "subject",
+     "active": [
+      {
+       "summary": "Аренда офисного помещения площадью 180 кв. м.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 1.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Аренда офисного помещения площадью 180 кв. м.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 1.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "term": {
+     "term": "term",
+     "active": [
+      {
+       "summary": "Действует до 31.12.2027 без автоматического продления.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 2.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Действует до 31.12.2027 без автоматического продления.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 2.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "remuneration": {
+     "term": "remuneration",
+     "active": [
+      {
+       "summary": "Арендная плата 210 000 руб. в месяц, включая НДС и коммунальные платежи.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 4.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Арендная плата 210 000 руб. в месяц, включая НДС и коммунальные платежи.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 4.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "payment_procedure": {
+     "term": "payment_procedure",
+     "active": [
+      {
+       "summary": "Оплата ежемесячно не позднее 10 числа.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 4.2",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Оплата ежемесячно не позднее 10 числа.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 4.2",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "liability": {
+     "term": "liability",
+     "active": [
+      {
+       "summary": "Пени 0,1% от задолженности за каждый день просрочки.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 5.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Пени 0,1% от задолженности за каждый день просрочки.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 5.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "termination": {
+     "term": "termination",
+     "active": [
+      {
+       "summary": "Односторонний отказ с уведомлением не позднее чем за 30 дней.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 6.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Односторонний отказ с уведомлением не позднее чем за 30 дней.",
+       "source_doc_id": "doc_232aee6c",
+       "source_number": "АР-2023/007",
+       "clause_ref": "п. 6.1",
+       "action": "base",
+       "effective_from": "2023-06-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    }
+   },
+   "applied_docs": [
+    "doc_232aee6c"
+   ],
+   "skipped_docs": [],
+   "notes": []
+  },
+  "АР-2021/015": {
+   "contract_id": "АР-2021/015",
+   "as_of": "2026-09-27",
+   "status": "active",
+   "terms": {
+    "subject": {
+     "term": "subject",
+     "active": [
+      {
+       "summary": "Аренда нежилого помещения площадью 640 кв. м под склад.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 1.1",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Аренда нежилого помещения площадью 640 кв. м под склад.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 1.1",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "term": {
+     "term": "term",
+     "active": [
+      {
+       "summary": "Действует до 31.12.2023 с автоматическим продлением на каждый следующий год; уведомление о прекращении не позднее чем за 60 дней.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 2.1",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Действует до 31.12.2023 с автоматическим продлением на каждый следующий год; уведомление о прекращении не позднее чем за 60 дней.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 2.1",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "remuneration": {
+     "term": "remuneration",
+     "active": [
+      {
+       "summary": "Арендная плата 510 000 руб. в месяц, включая НДС.",
+       "source_doc_id": "doc_4857d7b4",
+       "source_number": "АР-2021/015-ДС2",
+       "clause_ref": "п. 4.1",
+       "action": "restate",
+       "effective_from": "2023-01-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Арендная плата 450 000 руб. в месяц, включая НДС.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 4.1",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": "АР-2021/015-ДС1",
+       "amended_by": []
+      },
+      {
+       "summary": "Арендная плата 480 000 руб. в месяц, включая НДС.",
+       "source_doc_id": "doc_acf1f88a",
+       "source_number": "АР-2021/015-ДС1",
+       "clause_ref": "п. 4.1",
+       "action": "restate",
+       "effective_from": "2022-01-01",
+       "replaced_by": "АР-2021/015-ДС2",
+       "amended_by": []
+      },
+      {
+       "summary": "Арендная плата 510 000 руб. в месяц, включая НДС.",
+       "source_doc_id": "doc_4857d7b4",
+       "source_number": "АР-2021/015-ДС2",
+       "clause_ref": "п. 4.1",
+       "action": "restate",
+       "effective_from": "2023-01-01",
+       "replaced_by": null,
+       "amended_by": []
+      },
+      {
+       "summary": "Арендная плата 560 000 руб. в месяц с 01.01.2027.",
+       "source_doc_id": "doc_931e3d61",
+       "source_number": "АР-2021/015-ДС3",
+       "clause_ref": "п. 4.1",
+       "action": "restate",
+       "effective_from": "2027-01-01",
+       "replaced_by": "вступит в силу 2027-01-01",
+       "amended_by": []
+      }
+     ]
+    },
+    "payment_procedure": {
+     "term": "payment_procedure",
+     "active": [
+      {
+       "summary": "Оплата ежемесячно не позднее 5 числа текущего месяца.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 4.2",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Оплата ежемесячно не позднее 5 числа текущего месяца.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 4.2",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "obligations": {
+     "term": "obligations",
+     "active": [],
+     "history": [
+      {
+       "summary": "Круглосуточный доступ транспорта Арендатора на территорию.",
+       "source_doc_id": "doc_4857d7b4",
+       "source_number": "АР-2021/015-ДС2",
+       "clause_ref": "п. 2.3 Соглашения о порядке доступа (соглашения АР-2021/015-С)",
+       "action": "restate",
+       "effective_from": "2023-01-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "liability": {
+     "term": "liability",
+     "active": [
+      {
+       "summary": "Пени 0,05% от задолженности за каждый день просрочки.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 5.1",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      },
+      {
+       "summary": "Штраф 100 000 руб. за нарушение срока возврата помещения.",
+       "source_doc_id": "doc_4857d7b4",
+       "source_number": "АР-2021/015-ДС2",
+       "clause_ref": "п. 5.2",
+       "action": "add",
+       "effective_from": "2023-01-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Пени 0,05% от задолженности за каждый день просрочки.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 5.1",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      },
+      {
+       "summary": "Штраф 100 000 руб. за нарушение срока возврата помещения.",
+       "source_doc_id": "doc_4857d7b4",
+       "source_number": "АР-2021/015-ДС2",
+       "clause_ref": "п. 5.2",
+       "action": "add",
+       "effective_from": "2023-01-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "termination": {
+     "term": "termination",
+     "active": [
+      {
+       "summary": "Односторонний отказ с уведомлением не позднее чем за 90 дней.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 6.1",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Односторонний отказ с уведомлением не позднее чем за 90 дней.",
+       "source_doc_id": "doc_98d3041d",
+       "source_number": "АР-2021/015",
+       "clause_ref": "п. 6.1",
+       "action": "base",
+       "effective_from": "2021-03-15",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    }
+   },
+   "applied_docs": [
+    "doc_98d3041d",
+    "doc_acf1f88a",
+    "doc_4857d7b4",
+    "doc_931e3d61"
+   ],
+   "skipped_docs": [],
+   "notes": [
+    "АР-2021/015-ДС3: часть изменений вступает в силу после 2026-09-27 — они показаны в истории, но не в действующей редакции",
+    "АР-2021/015-ДС2 изменяет соглашение АР-2021/015-С, которого нет в цепочке договора: изменения показаны в истории, в действующую редакцию договора не включены"
+   ]
+  },
+  "П-118/22": {
+   "contract_id": "П-118/22",
+   "as_of": "2026-09-27",
+   "status": "active",
+   "terms": {
+    "subject": {
+     "term": "subject",
+     "active": [
+      {
+       "summary": "Поставка складского оборудования партиями по заявкам Покупателя.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 1.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Поставка складского оборудования партиями по заявкам Покупателя.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 1.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "term": {
+     "term": "term",
+     "active": [
+      {
+       "summary": "Действует до полного исполнения обязательств.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 6.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Действует до полного исполнения обязательств.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 6.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "remuneration": {
+     "term": "remuneration",
+     "active": [
+      {
+       "summary": "Скидка Покупателю 8% от цены прайс-листа.",
+       "source_doc_id": "doc_d071e118",
+       "source_number": "П-118/22-4",
+       "clause_ref": "п. 1 ДС П-118/22-1 (п. 2.1 Договора) (соглашения П-118/22-1)",
+       "action": "restate",
+       "effective_from": "2023-11-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Цена по прайс-листу Поставщика, скидка 5%.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 2.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": "П-118/22-1",
+       "amended_by": []
+      },
+      {
+       "summary": "Скидка Покупателю 7% от цены прайс-листа.",
+       "source_doc_id": "doc_5978bd08",
+       "source_number": "П-118/22-1",
+       "clause_ref": "п. 2.1",
+       "action": "restate",
+       "effective_from": "2022-07-01",
+       "replaced_by": "П-118/22-4",
+       "amended_by": []
+      },
+      {
+       "summary": "Скидка Покупателю 8% от цены прайс-листа.",
+       "source_doc_id": "doc_d071e118",
+       "source_number": "П-118/22-4",
+       "clause_ref": "п. 1 ДС П-118/22-1 (п. 2.1 Договора) (соглашения П-118/22-1)",
+       "action": "restate",
+       "effective_from": "2023-11-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "payment_procedure": {
+     "term": "payment_procedure",
+     "active": [
+      {
+       "summary": "Оплата в течение 50 дней с даты поставки.",
+       "source_doc_id": "doc_53ab76a9",
+       "source_number": "П-118/22-3",
+       "clause_ref": "п. 3.1",
+       "action": "restate",
+       "effective_from": "2023-03-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Оплата каждой партии в течение 30 дней с даты поставки.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 3.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": "П-118/22-1",
+       "amended_by": []
+      },
+      {
+       "summary": "Оплата в течение 45 дней с даты поставки.",
+       "source_doc_id": "doc_5978bd08",
+       "source_number": "П-118/22-1",
+       "clause_ref": "п. 3.1",
+       "action": "restate",
+       "effective_from": "2022-07-01",
+       "replaced_by": "П-118/22-3",
+       "amended_by": []
+      },
+      {
+       "summary": "Оплата в течение 50 дней с даты поставки.",
+       "source_doc_id": "doc_53ab76a9",
+       "source_number": "П-118/22-3",
+       "clause_ref": "п. 3.1",
+       "action": "restate",
+       "effective_from": "2023-03-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "obligations": {
+     "term": "obligations",
+     "active": [
+      {
+       "summary": "Поставка на склад Покупателя в течение 10 рабочих дней с даты заявки.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 4.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Поставка на склад Покупателя в течение 10 рабочих дней с даты заявки.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 4.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "liability": {
+     "term": "liability",
+     "active": [
+      {
+       "summary": "Неустойка 0,1% от стоимости непоставленного товара за день просрочки.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 5.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Неустойка 0,1% от стоимости непоставленного товара за день просрочки.",
+       "source_doc_id": "doc_6039766d",
+       "source_number": "П-118/22",
+       "clause_ref": "п. 5.1",
+       "action": "base",
+       "effective_from": "2022-02-03",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    }
+   },
+   "applied_docs": [
+    "doc_6039766d",
+    "doc_5978bd08",
+    "doc_53ab76a9",
+    "doc_d071e118"
+   ],
+   "skipped_docs": [
+    {
+     "doc_id": "doc_7bbad667",
+     "number": "П-118/22-2",
+     "reason": "признано недействительным соглашением П-118/22-3"
+    }
+   ],
+   "notes": []
+  },
+  "У-77": {
+   "contract_id": "У-77",
+   "as_of": "2026-09-27",
+   "status": "active",
+   "terms": {
+    "remuneration": {
+     "term": "remuneration",
+     "active": [
+      {
+       "summary": "Стоимость услуг 135 000 руб. в месяц, НДС не облагается.",
+       "source_doc_id": "doc_e8fcfcaf",
+       "source_number": "У-77/5",
+       "clause_ref": "п. 3.1",
+       "action": "restate",
+       "effective_from": "2024-02-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ],
+     "history": [
+      {
+       "summary": "Стоимость услуг 135 000 руб. в месяц, НДС не облагается.",
+       "source_doc_id": "doc_e8fcfcaf",
+       "source_number": "У-77/5",
+       "clause_ref": "п. 3.1",
+       "action": "restate",
+       "effective_from": "2024-02-01",
+       "replaced_by": null,
+       "amended_by": []
+      }
+     ]
+    },
+    "obligations": {
+     "term": "obligations",
+     "active": [],
+     "history": [
+      {
+       "summary": "Вывоз снега, 40 000 руб. в месяц.",
+       "source_doc_id": "doc_67225332",
+       "source_number": "У-77/6",
+       "clause_ref": "дополнительные услуги (вывоз снега)",
+       "action": "new_obligation",
+       "effective_from": "2025-03-01",
+       "replaced_by": "срок действия истёк 2025-05-31",
+       "amended_by": []
+      }
+     ]
+    }
+   },
+   "applied_docs": [
+    "doc_e8fcfcaf",
+    "doc_67225332"
+   ],
+   "skipped_docs": [],
+   "notes": [
+    "Основной договор отсутствует в пакете: базовая редакция неизвестна, показаны только изменения из соглашений",
+    "У-77/6: срок действия истёк 2025-05-31 — его условия показаны в истории, но не входят в действующую редакцию"
+   ]
+  }
+ },
+ "clusters": {
+  "contract:subject_category": [
+   {
+    "cluster_id": "C-P-1",
+    "level": "contract",
+    "key": {
+     "subject_category": "lease"
+    },
+    "members": [
+     "АР-2021/015",
+     "АР-2023/007"
+    ],
+    "common": {
+     "chain_complete": "да",
+     "city": "Новосибирск",
+     "counterparty_legal_form": "ООО",
+     "status": "active",
+     "subject_category": "lease"
+    },
+    "differing": {
+     "amendments": {
+      "АР-2023/007": "нет",
+      "АР-2021/015": "3+"
+     }
+    }
+   },
+   {
+    "cluster_id": "C-P-2",
+    "level": "contract",
+    "key": {
+     "subject_category": "sale"
+    },
+    "members": [
+     "П-118/22"
+    ],
+    "common": {
+     "amendments": "3+",
+     "chain_complete": "да",
+     "city": "Екатеринбург",
+     "counterparty_legal_form": "ООО",
+     "status": "active",
+     "subject_category": "sale"
+    },
+    "differing": {}
+   },
+   {
+    "cluster_id": "C-P-3",
+    "level": "contract",
+    "key": {
+     "subject_category": "services"
+    },
+    "members": [
+     "У-77"
+    ],
+    "common": {
+     "amendments": "1–2",
+     "chain_complete": "нет основного договора",
+     "city": "Новосибирск",
+     "counterparty_legal_form": "ИП",
+     "status": "active",
+     "subject_category": "services"
+    },
+    "differing": {}
+   }
+  ],
+  "contract:counterparty_legal_form,city": [
+   {
+    "cluster_id": "C-FG-1",
+    "level": "contract",
+    "key": {
+     "counterparty_legal_form": "ООО",
+     "city": "Новосибирск"
+    },
+    "members": [
+     "АР-2021/015",
+     "АР-2023/007"
+    ],
+    "common": {
+     "chain_complete": "да",
+     "city": "Новосибирск",
+     "counterparty_legal_form": "ООО",
+     "status": "active",
+     "subject_category": "lease"
+    },
+    "differing": {
+     "amendments": {
+      "АР-2023/007": "нет",
+      "АР-2021/015": "3+"
+     }
+    }
+   },
+   {
+    "cluster_id": "C-FG-2",
+    "level": "contract",
+    "key": {
+     "counterparty_legal_form": "ИП",
+     "city": "Новосибирск"
+    },
+    "members": [
+     "У-77"
+    ],
+    "common": {
+     "amendments": "1–2",
+     "chain_complete": "нет основного договора",
+     "city": "Новосибирск",
+     "counterparty_legal_form": "ИП",
+     "status": "active",
+     "subject_category": "services"
+    },
+    "differing": {}
+   },
+   {
+    "cluster_id": "C-FG-3",
+    "level": "contract",
+    "key": {
+     "counterparty_legal_form": "ООО",
+     "city": "Екатеринбург"
+    },
+    "members": [
+     "П-118/22"
+    ],
+    "common": {
+     "amendments": "3+",
+     "chain_complete": "да",
+     "city": "Екатеринбург",
+     "counterparty_legal_form": "ООО",
+     "status": "active",
+     "subject_category": "sale"
+    },
+    "differing": {}
+   }
+  ],
+  "document:doc_type,main_change_area": [
+   {
+    "cluster_id": "D-TZ-1",
+    "level": "document",
+    "key": {
+     "doc_type": "supplementary_agreement",
+     "main_change_area": "remuneration"
+    },
+    "members": [
+     "doc_4857d7b4",
+     "doc_5978bd08",
+     "doc_931e3d61",
+     "doc_acf1f88a",
+     "doc_d071e118",
+     "doc_e8fcfcaf"
+    ],
+    "common": {
+     "doc_type": "supplementary_agreement",
+     "main_change_area": "remuneration"
+    },
+    "differing": {
+     "status": {
+      "doc_acf1f88a": "ok",
+      "doc_4857d7b4": "ok",
+      "doc_931e3d61": "partial",
+      "doc_5978bd08": "partial",
+      "doc_d071e118": "partial",
+      "doc_e8fcfcaf": "partial"
+     },
+     "subject_category": {
+      "doc_acf1f88a": "lease",
+      "doc_4857d7b4": "lease",
+      "doc_931e3d61": "lease",
+      "doc_5978bd08": "sale",
+      "doc_d071e118": "sale",
+      "doc_e8fcfcaf": "services"
+     },
+     "text_source": {
+      "doc_acf1f88a": "text_layer",
+      "doc_4857d7b4": "text_layer",
+      "doc_931e3d61": "ocr",
+      "doc_5978bd08": "text_layer",
+      "doc_d071e118": "text_layer",
+      "doc_e8fcfcaf": "text_layer"
+     }
+    }
+   },
+   {
+    "cluster_id": "D-TZ-2",
+    "level": "document",
+    "key": {
+     "doc_type": "main_contract",
+     "main_change_area": "—"
+    },
+    "members": [
+     "doc_232aee6c",
+     "doc_6039766d",
+     "doc_98d3041d"
+    ],
+    "common": {
+     "doc_type": "main_contract",
+     "main_change_area": "—",
+     "status": "partial",
+     "text_source": "text_layer"
+    },
+    "differing": {
+     "subject_category": {
+      "doc_232aee6c": "lease",
+      "doc_98d3041d": "lease",
+      "doc_6039766d": "sale"
+     }
+    }
+   },
+   {
+    "cluster_id": "D-TZ-3",
+    "level": "document",
+    "key": {
+     "doc_type": "supplementary_agreement",
+     "main_change_area": "payment_procedure"
+    },
+    "members": [
+     "doc_53ab76a9",
+     "doc_7bbad667"
+    ],
+    "common": {
+     "doc_type": "supplementary_agreement",
+     "main_change_area": "payment_procedure",
+     "status": "ok",
+     "subject_category": "sale",
+     "text_source": "text_layer"
+    },
+    "differing": {}
+   },
+   {
+    "cluster_id": "D-TZ-4",
+    "level": "document",
+    "key": {
+     "doc_type": "supplementary_agreement",
+     "main_change_area": "obligations"
+    },
+    "members": [
+     "doc_67225332"
+    ],
+    "common": {
+     "doc_type": "supplementary_agreement",
+     "main_change_area": "obligations",
+     "status": "ok",
+     "subject_category": "services",
+     "text_source": "ocr"
+    },
+    "differing": {}
+   }
+  ]
+ },
+ "notes": {
+  "executive_summary": {
+   "text": "Синтетический пакет: 13 файлов, из них 12 PDF (2 скана) и 1 неподдерживаемый .xlsx. Собраны 4 цепочки: две аренды (склад АР-2021/015 и офис АР-2023/007), поставка оборудования П-118/22 и услуги по уборке У-77, основного договора которых в пакете нет. Главное: арендная плата за склад выросла с 450 000 до 510 000 руб. в месяц, а ДС АР-2021/015-ДС3 поднимает её до 560 000 руб. с 01.01.2027 (пока не вступило в силу). По поставке ДС П-118/22-2 отменено ДС П-118/22-3, действует отсрочка 50 дней и скидка 8% (ДС к ДС П-118/22-4). Дополнительные услуги по вывозу снега (У-77/6) истекли 31.05.2025. Риски: противоречие в дате договора поставки (03.02.2022 в договоре, 02.02.2022 в ДС П-118/22-1), изменение соглашения о доступе АР-2021/015-С, которого нет в пакете, и неподтверждённая дата подписания скана АР-2021/015-ДС3. Файл «Реестр платежей 2024.xlsx» не поддерживается и не анализировался."
+  },
+  "clusters": {
+   "C-P-1": "Оба договора — аренда в Новосибирске у ООО, но разного типа. Склад (АР-2021/015): 640 кв. м, ставка выросла с 450 000 до 510 000 руб. в месяц, с 01.01.2027 — 560 000 руб.; пени 0,05% в день, отказ за 90 дней, автопролонгация. Офис (АР-2023/007): 180 кв. м, 210 000 руб. в месяц с коммунальными платежами, обеспечительный платёж 210 000 руб., пени 0,1% в день, отказ за 30 дней, срок до 31.12.2027 без продления, доп. соглашений нет.",
+   "C-FG-1": "Совпадает с кластером C-P-1: обе аренды у ООО в Новосибирске; различия — см. C-P-1."
+  },
+  "contracts": {
+   "АР-2021/015": "Базовая ставка 450 000 руб. в месяц. ДС1 с 01.01.2022 — 480 000 руб., ДС2 с 01.01.2023 — 510 000 руб. и новый штраф 100 000 руб. за просрочку возврата помещения. ДС2 также меняет соглашение о доступе АР-2021/015-С, которого нет в пакете: это изменение показано только в истории. ДС3 (скан) поднимает ставку до 560 000 руб. с 01.01.2027; сейчас действует 510 000 руб. Дата подписания ДС3 на скане не подтверждена. Договор с автопролонгацией, поэтому дата 31.12.2023 не считается датой окончания.",
+   "АР-2023/007": "Доп. соглашений нет: действует исходная редакция — 210 000 руб. в месяц, срок до 31.12.2027.",
+   "П-118/22": "Скидка 5% → 7% (ДС1, с 01.07.2022) → 8% (ДС4 к ДС1, с 01.11.2023). Отсрочка платежа 30 → 45 дней (ДС1); ДС2 с отсрочкой 60 дней отменено ДС3, которое установило 50 дней с 01.03.2023. ДС1 ссылается на договор от 02.02.2022, в самом договоре — 03.02.2022. ДС3 лежит в папке аренды, но отнесено к поставке по номеру.",
+   "У-77": "Основного договора в пакете нет, цепочка восстановлена по ссылкам ДС. С 01.02.2024 стоимость уборки — 135 000 руб. в месяц (У-77/5). Вывоз снега за 40 000 руб. в месяц (У-77/6, скан) действовал по 31.05.2025 и в действующие условия не входит."
+  }
+ },
+ "report_generated_at": "2026-09-28T12:48:40.891690",
+ "reflection": {
+  "complete": true,
+  "items": [
+   {
+    "key": "inventory",
+    "title": "Пакет документов проинвентаризирован",
+    "ok": true,
+    "detail": "13 файлов"
+   },
+   {
+    "key": "parsed",
+    "title": "Все документы прочитаны (текстовый слой или OCR)",
+    "ok": true,
+    "detail": ""
+   },
+   {
+    "key": "cards",
+    "title": "По каждому распознанному документу есть проверенная карточка",
+    "ok": true,
+    "detail": "явно помечены как нераспознанные: ['Реестр платежей 2024.xlsx']"
+   },
+   {
+    "key": "chains",
+    "title": "Документы связаны в цепочки договоров",
+    "ok": true,
+    "detail": "4 договоров"
+   },
+   {
+    "key": "consolidated",
+    "title": "Для каждого договора выполнена свертка актуальных условий",
+    "ok": true,
+    "detail": ""
+   },
+   {
+    "key": "clusters",
+    "title": "Договоры кластеризованы по предмету",
+    "ok": true,
+    "detail": ""
+   },
+   {
+    "key": "diff_notes",
+    "title": "Описаны различия договоров внутри кластеров",
+    "ok": true,
+    "detail": ""
+   },
+   {
+    "key": "evolution_notes",
+    "title": "Описана эволюция условий каждого договора",
+    "ok": true,
+    "detail": ""
+   },
+   {
+    "key": "summary",
+    "title": "Есть резюме для руководителя",
+    "ok": true,
+    "detail": ""
+   },
+   {
+    "key": "report",
+    "title": "Отчёт сформирован по актуальным данным",
+    "ok": true,
+    "detail": "C:\\Users\\al1nsl\\Desktop\\contract-agent\\examples\\demo\\output\\report.md"
+   },
+   {
+    "key": "consolidation_content",
+    "title": "У каждого договора есть действующие условия или объяснение, почему их нет",
+    "ok": true,
+    "detail": ""
+   }
+  ],
+  "quality": {
+   "Документов распознано": "12/13 (92%)",
+   "Из них через OCR (страниц с низкой разборчивостью)": "2 (0)",
+   "Карточки: ok / partial / unrecognized": "5 / 7 / 0",
+   "Значений подтверждено проверками": "95/103 (92%)",
+   "Отказов от записи": "8",
+   "Средняя уверенность записанных значений": "0.93",
+   "Договоров без основного документа в пакете": "1",
+   "Противоречий и предупреждений по договорам": "3"
+  },
+  "todo": []
+ },
+ "usage": {
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "calls": 12
+ },
+ "changed_at": "2026-09-28T12:48:40.877735"
+}

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+workdir/
+# Документы заказчика не публикуем: положите пакет в data/ локально
+data/
+
+# кеш распознанного текста документов (не публикуем)
+examples/demo/output/cache/
+run_*.log
+workdir_*/
